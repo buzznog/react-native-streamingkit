@@ -1,0 +1,3 @@
+[submodule "BuzznogStreamingKit"]
+	path = BuzznogStreamingKit
+	url = git@github.com:buzznog/StreamingKit
